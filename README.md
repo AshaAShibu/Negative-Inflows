@@ -42,3 +42,9 @@ A reservoir level hydrograph smoothing technique was adopted to deal with the ch
 <p align="center">
 <img width="679" alt="Screen Shot 2022-06-11 at 8 47 56 PM" src="https://user-images.githubusercontent.com/107319637/173209625-0383df64-0580-437e-8dd2-5da33480d172.png">
 </p>
+
+2. *Replacing negative inflow terms with 0 and adjusting water balance*
+
+For replacing the remaining negative values, a methodology proposed by Goel et al. is applied. In this process, the sum of negative values for a water year is adjusted in the positive values in proportion to their magnitude. The negative inflow term is then changed to zero, resulting in water balance for the hydrological year (Goel, Jain, Rani, & Chalisgaonkar, 2018). According to USGS, a water year is defined as a 12-month period from October 1 through September 30, for any given year. The updated inflow is compued as: 
+<p align="center">
+
