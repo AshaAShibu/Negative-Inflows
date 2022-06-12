@@ -1,4 +1,3 @@
-# Negative-Inflows
 
 **Inflow Computation in Reservoirs**
 
@@ -12,6 +11,8 @@ Reservoir inflow is estimated using water balance method involving reservoir rel
 </p>
 
 The reservoir storage is estimated by the reservoir stage-elevation relationship
-
-
+<p align="center">
+<img width="107" alt="Screen Shot 2022-06-11 at 8 31 01 PM" src="https://user-images.githubusercontent.com/107319637/173209314-16e866a9-ce47-4f3b-bcb0-9962ff3c7646.png">
+</p>
+Here, HW is the observed water level. It should be noted that the water losses are not usually quantified so for this calculation, it is assumed to be negligible. 
                                  
