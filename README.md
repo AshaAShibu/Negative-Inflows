@@ -14,5 +14,7 @@ The reservoir storage is estimated by the reservoir stage-elevation relationship
 <p align="center">
 <img width="107" alt="Screen Shot 2022-06-11 at 8 31 01 PM" src="https://user-images.githubusercontent.com/107319637/173209314-16e866a9-ce47-4f3b-bcb0-9962ff3c7646.png">
 </p>
-Here, HW is the observed water level. It should be noted that the water losses are not usually quantified so for this calculation, it is assumed to be negligible. 
-                                 
+Here, HW is the observed water level. It should be noted that the water losses are not usually quantified so for this calculation, it is assumed to be negligible.
+
+
+The data for computing the relationship between the reservoir storage and elevation were provided by the TVA through direct correspondence, which is plotted to obtain the function as shown in Fig 10. A second-degree polynomial relationship is identified between the elevation level and reservoir volume, expressed as:
